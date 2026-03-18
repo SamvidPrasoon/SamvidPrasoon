@@ -162,10 +162,9 @@ coffee_level : ████████░░  optimal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9d4edd)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=9d4edd)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=9d4edd)](https://your-site.com)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9d4edd)](https://www.linkedin.com/in/samvid-prasoon-38b729203/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=9d4edd)](https://portfoliosamvid.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:prasoonsamvid31@gmail.com)
 
 </div>
 
