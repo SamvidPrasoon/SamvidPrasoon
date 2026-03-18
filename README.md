@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=hey%2C%20i%27m%20here.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=and%20that%27s%20already%20enough.&descSize=18&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,100:1a0533&height=220&section=header&text=hey%2C%20i%27m%20here.&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=full-stack%20engineer%20%E2%80%A2%20ai%20systems%20%E2%80%A2%20cloud%20architecture&descSize=16&descAlignY=60&descColor=9d4edd"/>
 
 </div>
 
@@ -8,96 +8,164 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   not just a developer.  a whole experience.               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   I don't just ship features.  I architect systems that last.   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-## ✦ the aura
+## ⬡ &nbsp;CORE STACK
 
-> *"Some people write code. I write futures."*
+<table>
+<tr>
+<td valign="top" width="33%">
 
-I don't just build things — I craft them.
-Every line has intention. Every project has a soul.
-The kind of energy you feel when something *just works*, beautifully.
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=9d4edd)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=9d4edd)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=9d4edd)
 
-That's the standard.
+### Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=9d4edd)
+![Express](https://img.shields.io/badge/Express.js-0a0a0a?style=flat-square&logo=express&logoColor=9d4edd)
+![Elysia](https://img.shields.io/badge/Elysia.js-0a0a0a?style=flat-square&logo=bun&logoColor=9d4edd)
+
+</td>
+<td valign="top" width="33%">
+
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=9d4edd)
+![REST API](https://img.shields.io/badge/REST_API-0a0a0a?style=flat-square&logo=fastapi&logoColor=9d4edd)
+![Inngest](https://img.shields.io/badge/Inngest-0a0a0a?style=flat-square&logo=relay&logoColor=9d4edd)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=9d4edd)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0a0a0a?style=flat-square&logo=drizzle&logoColor=9d4edd)
+
+</td>
+<td valign="top" width="33%">
+
+### Cloud & DevOps
+![AWS S3](https://img.shields.io/badge/AWS_S3-0a0a0a?style=flat-square&logo=amazons3&logoColor=9d4edd)
+![AWS Lambda](https://img.shields.io/badge/Lambda-0a0a0a?style=flat-square&logo=awslambda&logoColor=9d4edd)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=9d4edd)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=flat-square&logo=kubernetes&logoColor=9d4edd)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0a0a0a?style=flat-square&logo=githubactions&logoColor=9d4edd)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### UI Engineering
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=9d4edd)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0a0a0a?style=flat-square&logo=shadcnui&logoColor=9d4edd)
+![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-0a0a0a?style=flat-square&logo=framer&logoColor=9d4edd)
+
+</td>
+<td valign="top" width="50%">
+
+### AI & Agents
+![Ollama](https://img.shields.io/badge/Ollama-0a0a0a?style=flat-square&logo=ollama&logoColor=9d4edd)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=langchain&logoColor=9d4edd)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0a?style=flat-square&logo=graphql&logoColor=9d4edd)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ✦ the stack (handpicked, not random)
+## ⬡ &nbsp;ARCHITECTURE PRINCIPLES
 
-<div align="center">
+```typescript
+const engineer = {
+  identity  : "Full-Stack Engineer × AI Systems Builder",
+  approach  : "Backend-first. Type-safe. Production-ready.",
 
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa)
-![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=next.js&logoColor=a78bfa)
-![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=a78bfa)
-![Postgres](https://img.shields.io/badge/Postgres-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
-![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa)
-![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=a78bfa)
+  backend   : ["REST API Design", "Event-driven workflows (Inngest)", "Serverless (AWS Lambda)"],
+  data      : ["SQL schema design", "Drizzle ORM", "AWS S3 object storage"],
+  infra     : ["Dockerized services", "Kubernetes orchestration", "Secrets Manager", "CI/CD pipelines"],
+  ai        : ["Local LLMs via Ollama", "LangChain pipelines", "LangGraph agent workflows"],
+  frontend  : ["Next.js SSR/SSG", "Tailwind + shadcn/ui", "Aceternity UI animations"],
 
-</div>
+  currentlyBuilding : "something that makes you raise an eyebrow.",
+  philosophy        : "if it can't scale, it was never really done.",
+} satisfies Engineer;
+```
 
 <br/>
 
-## ✦ current frequencies
+## ⬡ &nbsp;HOW I THINK ABOUT SYSTEMS
+
+```
+[ Client ]  ──→  [ Next.js + Tailwind + shadcn ]
+                          │
+                          ▼
+             [ Express / Elysia REST API ]
+                          │
+              ┌───────────┴────────────┐
+              ▼                        ▼
+     [ Inngest Workflows ]     [ AWS Lambda ]
+              │                        │
+              ▼                        ▼
+     [ Drizzle ORM + SQL ]    [ S3 + Secrets Manager ]
+              │
+              ▼
+   [ LangChain + LangGraph ]
+              │
+              ▼
+      [ Ollama Local LLM ]
+```
+
+> Every layer is intentional. Every boundary is a decision.
+
+<br/>
+
+## ⬡ &nbsp;OPERATING SYSTEM
 
 ```yaml
-status       : building something you haven't seen yet
-mode         : deep focus  🎧
-listening to : whatever hits different at 2am
-vibe check   : ████████████ immaculate
+# current_state.yml
+
+role         : Full-Stack × AI Engineer
+mode         : architect mode — thinking in systems, not features
+focus        : event-driven backends + agentic AI workflows
+principle    : type-safe or don't ship
+tool_of_war  : TypeScript (it never lies to you)
+secret_weapon: LangGraph — because agents need memory and control flow
+coffee_level : ████████░░  optimal
 ```
 
 <br/>
 
-## ✦ the numbers (they don't lie)
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F0C29&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa"/>
-
-</div>
-
-<br/>
-
-## ✦ the philosophy
+## ⬡ &nbsp;WHAT I BUILD
 
 ```
-01  →  good code is a love language.
-02  →  if it's not elegant, it's not done.
-03  →  ship it, but make it hurt to compete with.
-04  →  rest is part of the process.
-05  →  the best projects feel inevitable in hindsight.
+✦  Production APIs          —  REST, type-safe, versioned, documented
+✦  AI Agent Pipelines       —  LangGraph workflows, tool-use, RAG systems
+✦  Event-driven Systems     —  Inngest jobs, async queues, retry logic
+✦  Cloud Infrastructure     —  AWS-native, Dockerized, K8s-ready
+✦  Full-Stack Applications  —  Next.js frontend → Node.js backend → SQL
+✦  UI that hits different   —  Tailwind + shadcn + Aceternity animations
 ```
 
 <br/>
 
-## ✦ where to find the frequency
+## ⬡ &nbsp;CONNECT
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/Twitter-0f0c29?style=for-the-badge&logo=twitter&logoColor=a78bfa)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://your-site.com)
-[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9d4edd)](https://linkedin.com/in/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=9d4edd)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=9d4edd)](https://your-site.com)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:your@email.com)
 
 </div>
 
@@ -108,10 +176,11 @@ vibe check   : ████████████ immaculate
 <div align="center">
 
 ```
-not everyone will get it.
-that's the point.
+the system works.
+the code is clean.
+the aura is immaculate.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,60:0d0d0d,100:000000&height=140&section=footer"/>
 
 </div>
